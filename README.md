@@ -136,44 +136,6 @@ Write a Python program where the user can input and solve a Sudoku puzzle throug
 
 ---
 
-## 📁 Project Structure
-
-```
-AI_ProblemSolving_Ra2411026050266/
-│
-├── app.py                          # Flask server (both problems)
-├── requirements.txt                # Python dependencies
-├── README.md                       # Project documentation
-├── CONTRIBUTING.md                 # Contribution guidelines
-├── .gitignore                      # Git ignore rules
-│
-├── Problem1_TicTacToe/             # Problem 1 documentation
-│   └── README.md                   # Tic-Tac-Toe algorithm details
-│
-├── Problem2_Sudoku/                # Problem 2 documentation
-│   └── README.md                   # Sudoku CSP algorithm details
-│
-├── templates/                      # HTML templates
-│   ├── home.html                   # Home page (game selector)
-│   ├── index.html                  # Tic-Tac-Toe game page
-│   └── sudoku.html                 # Sudoku game page
-│
-├── static/                         # Static assets
-│   ├── style.css                   # Shared dark theme CSS
-│   ├── sudoku.css                  # Sudoku-specific styles
-│   ├── script.js                   # Tic-Tac-Toe frontend logic
-│   └── sudoku.js                   # Sudoku frontend logic
-│
-└── screenshots/                    # Sample output images
-    ├── home_page.png
-    ├── tictactoe_mode_select.png
-    ├── tictactoe_gameplay.png
-    ├── sudoku_puzzle.png
-    └── sudoku_solved.png
-```
-
----
-
 ## 🚀 Installation & Execution Steps
 
 ### Prerequisites
@@ -257,14 +219,6 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ---
 
-## 🙏 Acknowledgments
 
-- **SRM Institute of Science and Technology** — Course assignment
-- **Flask** — Lightweight Python web framework
-- **Google Fonts** — Inter & JetBrains Mono typefaces
-
----
-
-<p align="center">
   <b>⭐ Star this repo if you found it helpful! ⭐</b>
 </p>
