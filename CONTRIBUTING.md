@@ -22,8 +22,7 @@ Click the **Fork** button at the top-right corner of this repository to create y
 ### 2. Clone Your Fork
 
 ```bash
-git clone https://github.com/<your-username>/AI_ProblemSolving_Ra2411026050283.git
-cd AI_ProblemSolving_Ra2411026050283
+git clone https://github.com/Nikilan10/AI_ProblemSolving_-RA2411026050258-_-_RA2411026050266-.git
 ```
 
 ### 3. Create a Branch
