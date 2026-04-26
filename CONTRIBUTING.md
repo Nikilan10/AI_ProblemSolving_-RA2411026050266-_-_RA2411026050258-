@@ -4,10 +4,10 @@ Thank you for your interest in contributing to this project! 🎉
 
 ## 👥 Project Contributors
 
-| Name | Register Number | GitHub |
+| Name | Register Number | Role |
 |------|----------------|--------|
-| **Shree Shanth VJ** | RA2411026050283 | [@shreeshanth](https://github.com/shreeshanth) |
-| **Somas Kandan J** | RA2411026050285 | [@somaskandan](https://github.com/somaskandan) |
+| **Nikilan I** | RA2411026050266 | Student |
+| **Mohammed Saad M** | RA2411026050258 | Student |
 
 ---
 
@@ -114,8 +114,8 @@ Open `http://localhost:5000` in your browser.
 ## 📧 Contact
 
 For questions or suggestions, reach out to:
-- **Shree Shanth VJ** — RA2411026050283
-- **Somas Kandan J** — RA2411026050285
+- **Nikilan I** — RA2411026050266
+- **Mohammed Saad** — RA2411026050258
 
 ---
 
