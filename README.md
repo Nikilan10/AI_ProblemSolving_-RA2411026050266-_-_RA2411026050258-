@@ -1,7 +1,7 @@
-## Name : Jaya Ruban P
-## Reg NO : RA2411026050280
-## Name : Aswin R
-## Reg NO : RA2411026050288
+## Name : Nikilan I
+## Reg NO : RA2411026050266
+## Name : Mohammed Saad
+## Reg NO : RA2411026050258
 
 ## Introduction
 AI Assignment is to enable students to apply Artifical Intelligence problem-solving techniques through pratcal implementation and collaborative development using GitHub For
@@ -246,8 +246,8 @@ http://localhost:5000
 
 | Name | Register Number | Role |
 |------|----------------|------|
-| **Jaya Ruban P** | RA2411026050280 | Student/Developer | 
-| **Aswin R** | RA2411026050288 | Student/Developer | 
+| **Nikilan I** | RA2411026050266 | Student | 
+| **Mohammed Saad M** | RA2411026050258 | Student | 
 
 ---
 
