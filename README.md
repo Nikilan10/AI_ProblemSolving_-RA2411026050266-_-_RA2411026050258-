@@ -139,7 +139,7 @@ Write a Python program where the user can input and solve a Sudoku puzzle throug
 ## 📁 Project Structure
 
 ```
-AI_ProblemSolving_Ra2411026050280/
+AI_ProblemSolving_Ra2411026050266/
 │
 ├── app.py                          # Flask server (both problems)
 ├── requirements.txt                # Python dependencies
