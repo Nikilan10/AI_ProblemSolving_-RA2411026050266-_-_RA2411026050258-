@@ -184,7 +184,7 @@ AI_ProblemSolving_Ra2411026050280/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/RRRuban/AI_ProblemSolving_-RA2411026050280-_-_RA2411026050288-.git
+git clone https://github.com/Nikilan10/AI_ProblemSolving_-RA2411026050266-_-_RA2411026050258-.git
 ```
 
 ### Step 2: Install Dependencies
