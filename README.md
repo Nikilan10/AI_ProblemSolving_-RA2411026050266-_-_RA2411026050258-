@@ -1,20 +1,20 @@
-# 🎮 AI Problem Solving Assignment — Interactive Game AI
+## Name : Jaya Ruban P
+## Reg NO : RA2411026050280
+## Name : Aswin R
+## Reg NO : RA2411026050288
 
-> **Repository:** `AI_ProblemSolving_Ra2411026050283`
-> **Course:** Artificial Intelligence — Problem Solving Assignment
-> **Live Demo:** [https://ai-problem-solving-ra2411026050283-4exa.onrender.com](https://ai-problem-solving-ra2411026050283-4exa.onrender.com)
+## Introduction
+AI Assignment is to enable students to apply Artifical Intelligence problem-solving techniques through pratcal implementation and collaborative development using GitHub For
+Problem 1: Interactive Tic Tac Toe Game 
+Problem 2: Sudoku Game CSP Solver
 
-[![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white)](https://python.org)
-[![Flask](https://img.shields.io/badge/Flask-3.x-000000?logo=flask)](https://flask.palletsprojects.com)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
----
+## Home Page :![image alt](https://github.com/RRRuban/AI_ProblemSolving_-RA2411026050280-_-_RA2411026050288-/blob/cdf67d3ca404feb30bf573aa01b7abfae7156e5d/home_page.png)
 
 ## 📋 Table of Contents
 
 - [Overview](#-overview)
-- [Problem 1 — Tic-Tac-Toe AI](#-problem-1--tic-tac-toe-ai-minimax--alpha-beta-pruning)
-- [Problem 2 — Sudoku CSP Solver](#-problem-2--sudoku-solver-csp-approach)
+- [Problem 1 — Interactive Tic-Tac-Toe Game](#-problem-1--tic-tac-toe-ai-minimax--alpha-beta-pruning)
+- [Problem 2 — Sudoku Game CSP Solver](#-problem-2--sudoku-solver-csp-approach)
 - [Project Structure](#-project-structure)
 - [Installation & Execution](#-installation--execution-steps)
 - [Sample Outputs](#-sample-outputs)
@@ -29,16 +29,16 @@ This project implements two classic AI problem-solving approaches as interactive
 
 | Problem | Game | Algorithm(s) | Approach |
 |---------|------|-------------|----------|
-| **Problem 1** | Tic-Tac-Toe | Minimax, Alpha-Beta Pruning | Game Tree Search |
-| **Problem 2** | Sudoku (Easy) | CSP with Backtracking + MRV | Constraint Satisfaction |
+| **Problem 1** | Interactive Tic-Tac-Toe Game | Minimax, Alpha-Beta Pruning | Game Tree Search |
+| **Problem 2** | Sudoku Game Solver (Easy) | CSP with Backtracking + MRV | Constraint Satisfaction |
 
 Both games feature a **premium dark-themed interactive GUI** built with HTML/CSS/JavaScript and a **Python Flask backend** implementing the AI algorithms.
 
-![Home Page](screenshots/home_page.png)
+
 
 ---
 
-## 🎯 Problem 1 — Tic-Tac-Toe AI (Minimax & Alpha-Beta Pruning)
+## 🎯 Problem 1 — Tic-Tac-Toe Game (Minimax & Alpha-Beta Pruning)
 
 ### Problem Statement
 
@@ -58,6 +58,8 @@ A gaming company wants to create an AI opponent for a web-based Tic-Tac-Toe game
 - **Time Complexity:** O(b^(d/2)) in the best case — explores roughly the **square root** of nodes compared to standard Minimax
 - **Optimality:** Same optimal result as Minimax, but significantly faster
 
+## Interface:![image alt](https://github.com/RRRuban/AI_ProblemSolving_-RA2411026050280-_-_RA2411026050288-/blob/e8cff207e76d10520a5d391db08832f9998ffe72/tictactoe_mode_select.png)
+
 ### Features
 - **Solo Mode** — Play against the unbeatable AI
 - **Multiplayer Mode** — Two players on the same device
@@ -66,11 +68,7 @@ A gaming company wants to create an AI opponent for a web-based Tic-Tac-Toe game
 - **Move History** — Tracks all moves with per-move analytics
 - **Cumulative Stats** — Total nodes explored across all moves
 
-### Sample Output — Tic-Tac-Toe
 
-![Tic-Tac-Toe Mode Selection](screenshots/tictactoe_mode_select.png)
-
-![Tic-Tac-Toe Gameplay with AI Analytics](screenshots/tictactoe_gameplay.png)
 
 #### Algorithm Comparison (Sample Move)
 
@@ -86,7 +84,7 @@ A gaming company wants to create an AI opponent for a web-based Tic-Tac-Toe game
 
 ---
 
-## 🧩 Problem 2 — Sudoku Solver (CSP Approach)
+## 🧩 Problem 2 — Sudoku Game CSP Solver 
 
 ### Problem Statement
 
@@ -95,6 +93,8 @@ Write a Python program where the user can input and solve a Sudoku puzzle throug
 ### Algorithm Used
 
 #### Constraint Satisfaction Problem (CSP) with Backtracking + MRV Heuristic
+
+## Interface:![image alt](https://github.com/RRRuban/AI_ProblemSolving_-RA2411026050280-_-_RA2411026050288-/blob/9381f90e2695e096df2d93fd9b844e821b7a9c49/sudoku_puzzle.png)
 
 **CSP Components:**
 
@@ -122,13 +122,8 @@ Write a Python program where the user can input and solve a Sudoku puzzle throug
 - **Progress Tracker** — Shows cells filled vs remaining
 - **Puzzle Generation** — Generates randomized easy-level puzzles with unique solutions
 
-### Sample Output — Sudoku
 
-![Sudoku Puzzle](screenshots/sudoku_puzzle.png)
-
-![Sudoku Solved by CSP](screenshots/sudoku_solved.png)
-
-#### CSP Solver Statistics (Sample)
+#### CSP Solver Statistics (Sample Move)
 
 | Metric | Value |
 |--------|-------|
@@ -144,7 +139,7 @@ Write a Python program where the user can input and solve a Sudoku puzzle throug
 ## 📁 Project Structure
 
 ```
-AI_ProblemSolving_Ra2411026050283/
+AI_ProblemSolving_Ra2411026050280/
 │
 ├── app.py                          # Flask server (both problems)
 ├── requirements.txt                # Python dependencies
@@ -189,8 +184,7 @@ AI_ProblemSolving_Ra2411026050283/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/AI_ProblemSolving_Ra2411026050283.git
-cd AI_ProblemSolving_Ra2411026050283
+git clone https://github.com/RRRuban/AI_ProblemSolving_-RA2411026050280-_-_RA2411026050288-.git
 ```
 
 ### Step 2: Install Dependencies
@@ -215,9 +209,9 @@ http://localhost:5000
 
 ### Usage
 
-1. **Home Page** — Select Problem 1 (Tic-Tac-Toe) or Problem 2 (Sudoku)
-2. **Tic-Tac-Toe** — Choose Solo (vs AI) or Multiplayer mode, then play!
-3. **Sudoku** — Fill the grid manually or click "AI Solve (CSP)" for auto-solve
+1. **Home Page** — Select Problem 1 (Tic-Tac-Toe Game) or Problem 2 (Sudoku Game)
+2. **Tic-Tac-Toe Game** — Choose Solo (vs AI) or Multiplayer mode, then play!
+3. **Sudoku Game** — Fill the grid manually or click "AI Solve (CSP)" for auto-solve
 4. **Switch** — Use the header buttons to switch between problems at any time
 
 ---
@@ -252,8 +246,8 @@ http://localhost:5000
 
 | Name | Register Number | Role |
 |------|----------------|------|
-| **Shree Shanth VJ** | RA2411026050283 | Developer |
-| **Somas Kandan J** | RA2411026050285 | Developer |
+| **Jaya Ruban P** | RA2411026050280 | Student/Developer | 
+| **Aswin R** | RA2411026050288 | Student/Developer | 
 
 ---
 
